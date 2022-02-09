@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+
+.login-area {
+	background: yellow;
+	width: 30%;
+	text-align: center;
+	overflow: hidden;
+	margin: auto;
+}
+.login-area form input {
+	
+	margin: 10px 0 10px 0;
+}
+a {
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+a:hover {
+	color: green;
+	text-decoration: underline;
+	cursor: move;
+	
+}
